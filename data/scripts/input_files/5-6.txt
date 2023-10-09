@@ -1,0 +1,5 @@
+data/5-keep_time_range/data.db
+data/6-joined_our_world_in_data/data.db
+diet_and_life
+SELECT diet.country, diet.year, other_c_pp_pd, alcohol_c_pp_pd, sugar_c_pp_pd, fat_c_pp_pd, meat_c_pp_pd, dairy_c_pp_pd, fruits_and_vegetables_c_pp_pd, starchy_roots_c_pp_pd, pulses_c_pp_pd, cereals_and_grains_c_pp_pd, available_fruit_kg_per_year_per_capita, gdp_per_capita_ppp_2017, life_expectancy, meat_protein_c, plant_protein_c, fat_c, carbohydrates_c  FROM (((dietary_compositions_by_commodity_group AS diet INNER JOIN fruit_consumption_vs_gdp_per_capita AS fruit ON diet.country = fruit.country AND diet.year = fruit.year) AS d_f INNER JOIN life_expectancy AS life ON d_f.country = life.country AND d_f.year = life.year) AS d_f_l INNER JOIN daily_caloric_supply_derived_from_carbohydrates_protein_and_fat AS caloric ON d_f_l.country = caloric.country AND d_f_l.year = caloric.year)
+(dietary_compositions_by_commodity_group, fruit_consumption_vs_gdp_per_capita, life_expectancy, daily_caloric_supply_derived_from_carbohydrates_protein_and_fat)

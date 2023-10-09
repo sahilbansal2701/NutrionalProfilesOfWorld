@@ -1,0 +1,5 @@
+data/6-joined_our_world_in_data/data.db
+data/7-joined_imports_exports/data.db
+imports_and_exports
+SELECT * FROM (SELECT exports.country, exports.year, export_item, export_value_1000_tonnes, import_item, import_value_1000_tonnes FROM exports LEFT OUTER JOIN imports ON exports.country = imports.country AND exports.year = imports.year AND exports.export_item = imports.import_item UNION SELECT imports.country, imports.year, export_item, export_value_1000_tonnes, import_item, import_value_1000_tonnes FROM imports LEFT OUTER JOIN exports ON imports.country = exports.country AND imports.year = exports.year AND imports.import_item = exports.export_item)
+(exports, imports)

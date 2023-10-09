@@ -1,0 +1,44 @@
+data/1-raw/dietary-compositions-by-commodity-group.csv
+data/1-raw/FAOSTAT_data_en_3-12-2023-export.csv
+data/1-raw/FAOSTAT_data_en_3-12-2023-import.csv
+data/1-raw/FAOSTAT_data_en_3-12-2023-number-of-people-undernourished.csv
+data/1-raw/fruit-consumption-vs-gdp-per-capita.csv
+data/1-raw/life-expectancy.csv
+data/1-raw/daily-caloric-supply-derived-from-carbohydrates-protein-and-fat.csv
+
+data/2-turned_into_one_db/data.db
+dietary_compositions_by_commodity_group
+(0      , 3             , 4               , 5             , 6           , 7            , 8             , 9                             , 10                     , 11             , 12)
+(country, other_c_pp_pd, alcohol_c_pp_pd, sugar_c_pp_pd, fat_c_pp_pd, meat_c_pp_pd, dairy_c_pp_pd, fruits_and_vegetables_c_pp_pd, starchy_roots_c_pp_pd , pulses_c_pp_pd, cereals_and_grains_c_pp_pd)
+(TEXT NOT NULL, TEXT, INT, INT, INT, INT, INT, INT, INT, INT, INT, INT, INT)
+(country, year)
+exports
+(0          , 2            , 3      , 4           , 6            , 7          , 8        , 11          , 13)
+(domain_code, area_code_m49, country, element_code, item_code_cpc, export_item, year_code, export_value, flag_description)
+(TEXT, TEXT, INT, TEXT NOT NULL, INT, TEXT, TEXT, TEXT, INT, INT, TEXT, INT, TEXT, TEXT)
+(country, year, export_item)
+imports
+(0          , 2            , 3      , 4           , 6            , 7          , 8        , 11          , 13)
+(domain_code, area_code_m49, country, element_code, item_code_cpc, import_item, year_code, import_value, flag_description)
+(TEXT, TEXT, INT, TEXT NOT NULL, INT, TEXT, TEXT, TEXT, INT, INT, TEXT, INT, TEXT, TEXT)
+(country, year, import_item)
+number_of_people_undernourished
+(0          , 2            , 3      , 4           , 6        , 8        , 11                   , 13)
+(domain_code, area_code_m49, country, element_code, item_code, year_code, number_undernourished, flag_description)
+(TEXT, TEXT, INT, TEXT NOT NULL, INT, TEXT, TEXT, TEXT, INT, INT, TEXT, INT, TEXT, TEXT, TEXT)
+(country, year)
+fruit_consumption_vs_gdp_per_capita
+(0      , 3                                     , 4)
+(country, available_fruit_kg_per_year_per_capita, gdp_per_capita_ppp_2017)
+(TEXT NOT NULL, TEXT, INT, FLOAT, FLOAT, TEXT)
+(country, year)
+life_expectancy
+(0      , 3)
+(country, life_expectancy)
+(TEXT NOT NULL, TEXT, INT, FLOAT)
+(country, year)
+daily_caloric_supply_derived_from_carbohydrates_protein_and_fat
+(0      , 3             , 4              , 5    , 6)
+(country, meat_protein_c, plant_protein_c, fat_c, carbohydrates_c)
+(TEXT NOT NULL, TEXT, INT, FLOAT, FLOAT, FLOAT, FLOAT)
+(country, year)

@@ -1,0 +1,674 @@
+{
+    "afghanistan": {
+        "correlation": NaN,
+        "pvalue": NaN
+    },
+    "albania": {
+        "correlation": 0.9613312487439378,
+        "pvalue": 0.9999999777996001
+    },
+    "algeria": {
+        "correlation": 0.879474161679016,
+        "pvalue": 0.999983015675002
+    },
+    "angola": {
+        "correlation": 0.9956043956043955,
+        "pvalue": 0.9999999999999485
+    },
+    "antigua and barbuda": {
+        "correlation": 0.12127901527811503,
+        "pvalue": 0.6601992246263828
+    },
+    "argentina": {
+        "correlation": -0.1507793890627702,
+        "pvalue": 0.30344299616545123
+    },
+    "armenia": {
+        "correlation": -0.2422907488986784,
+        "pvalue": 0.20197447767976545
+    },
+    "australia": {
+        "correlation": -0.8523993627429229,
+        "pvalue": 5.3890270179614434e-05
+    },
+    "austria": {
+        "correlation": -0.8723688757106989,
+        "pvalue": 2.356992316286126e-05
+    },
+    "azerbaijan": {
+        "correlation": 0.7766781377511844,
+        "pvalue": 0.9994572218990614
+    },
+    "bahamas": {
+        "correlation": -0.3995545668124813,
+        "pvalue": 0.07847719872657388
+    },
+    "bangladesh": {
+        "correlation": NaN,
+        "pvalue": NaN
+    },
+    "barbados": {
+        "correlation": 0.510451353989447,
+        "pvalue": 0.9689138428737976
+    },
+    "belarus": {
+        "correlation": 0.9282583323817748,
+        "pvalue": 0.9999991578888253
+    },
+    "belgium": {
+        "correlation": -0.7938301417073478,
+        "pvalue": 0.00034978257769794756
+    },
+    "belize": {
+        "correlation": 0.7078318763557185,
+        "pvalue": 0.9976897103639645
+    },
+    "benin": {
+        "correlation": 0.3411940491646585,
+        "pvalue": 0.8837321627071015
+    },
+    "bermuda": {
+        "correlation": -0.4761977762298778,
+        "pvalue": 0.042594968317667264
+    },
+    "bolivia": {
+        "correlation": -0.06082948192387112,
+        "pvalue": 0.41817185233082754
+    },
+    "bosnia and herzegovina": {
+        "correlation": 0.7695704787647664,
+        "pvalue": 0.9993558137313585
+    },
+    "botswana": {
+        "correlation": 0.4378440493271549,
+        "pvalue": 0.9413026912423755
+    },
+    "brazil": {
+        "correlation": 0.7612765882773649,
+        "pvalue": 0.9992189783692118
+    },
+    "brunei": {
+        "correlation": 0.7311306261318721,
+        "pvalue": 0.9985160040618806
+    },
+    "bulgaria": {
+        "correlation": 0.9349509541440143,
+        "pvalue": 0.9999995251178093
+    },
+    "burkina faso": {
+        "correlation": 0.13230502361789132,
+        "pvalue": 0.6739608410128293
+    },
+    "cambodia": {
+        "correlation": 0.9812033468396312,
+        "pvalue": 0.9999999996942351
+    },
+    "cameroon": {
+        "correlation": 0.9658266724106065,
+        "pvalue": 0.9999999893200869
+    },
+    "canada": {
+        "correlation": -0.9458615504882883,
+        "pvalue": 1.6164844701740788e-07
+    },
+    "central african republic": {
+        "correlation": 0.13608941411051234,
+        "pvalue": 0.6786381357460024
+    },
+    "chad": {
+        "correlation": 0.9349291105881459,
+        "pvalue": 0.9999995241830637
+    },
+    "chile": {
+        "correlation": 0.9501713566846862,
+        "pvalue": 0.9999999008014677
+    },
+    "china": {
+        "correlation": 0.977975940676917,
+        "pvalue": 0.9999999992142926
+    },
+    "colombia": {
+        "correlation": -0.4589402118664026,
+        "pvalue": 0.04940011502574975
+    },
+    "congo": {
+        "correlation": 0.8473637969843049,
+        "pvalue": 0.999934844805273
+    },
+    "costa rica": {
+        "correlation": 0.7117358419778226,
+        "pvalue": 0.9978486831263328
+    },
+    "cote d'ivoire": {
+        "correlation": 0.1555617013244156,
+        "pvalue": 0.7023053810847786
+    },
+    "croatia": {
+        "correlation": -0.86504636484705,
+        "pvalue": 3.239991619560916e-05
+    },
+    "cuba": {
+        "correlation": 0.902871957060989,
+        "pvalue": 0.9999950979662002
+    },
+    "cyprus": {
+        "correlation": -0.12168409617268085,
+        "pvalue": 0.33929177265287397
+    },
+    "czechia": {
+        "correlation": -0.5159870831832531,
+        "pvalue": 0.02946125025107334
+    },
+    "denmark": {
+        "correlation": -0.9460951819631991,
+        "pvalue": 1.5758841423774077e-07
+    },
+    "djibouti": {
+        "correlation": 0.18445583095829574,
+        "pvalue": 0.7360704373155975
+    },
+    "dominica": {
+        "correlation": 0.6968030695978974,
+        "pvalue": 0.9971905317398903
+    },
+    "dominican republic": {
+        "correlation": -0.5644986892944991,
+        "pvalue": 0.017731870629723156
+    },
+    "ecuador": {
+        "correlation": 0.9327504165061338,
+        "pvalue": 0.9999994230003248
+    },
+    "egypt": {
+        "correlation": -0.21625676632928773,
+        "pvalue": 0.22886973351200546
+    },
+    "el salvador": {
+        "correlation": -0.6104332283610246,
+        "pvalue": 0.010210571185404738
+    },
+    "estonia": {
+        "correlation": 0.9790985022642409,
+        "pvalue": 0.9999999994245672
+    },
+    "eswatini": {
+        "correlation": -0.23956043956043957,
+        "pvalue": 0.2047149464258663
+    },
+    "ethiopia": {
+        "correlation": 0.9450098943850063,
+        "pvalue": 0.9999998228120879
+    },
+    "fiji": {
+        "correlation": 0.8285418507294635,
+        "pvalue": 0.9998746116443091
+    },
+    "finland": {
+        "correlation": -0.8089208468869612,
+        "pvalue": 0.00022958541460239062
+    },
+    "france": {
+        "correlation": -0.7687385966526075,
+        "pvalue": 0.0006569790173817107
+    },
+    "french polynesia": {
+        "correlation": -0.5812004962995432,
+        "pvalue": 0.014635982924263453
+    },
+    "gabon": {
+        "correlation": 0.7971338913279745,
+        "pvalue": 0.9996800782591267
+    },
+    "gambia": {
+        "correlation": -0.636938702486765,
+        "pvalue": 0.007149230796947213
+    },
+    "georgia": {
+        "correlation": 0.8243098954916803,
+        "pvalue": 0.9998562629368666
+    },
+    "germany": {
+        "correlation": -0.037527593818984545,
+        "pvalue": 0.4493248382483145
+    },
+    "ghana": {
+        "correlation": -0.3322534012008262,
+        "pvalue": 0.12289783290798606
+    },
+    "greece": {
+        "correlation": -0.7198232542340561,
+        "pvalue": 0.0018492962524834433
+    },
+    "grenada": {
+        "correlation": 0.7964679739199663,
+        "pvalue": 0.9996742304275941
+    },
+    "guatemala": {
+        "correlation": 0.5161548980973413,
+        "pvalue": 0.9705870333680208
+    },
+    "guinea": {
+        "correlation": 0.6163124872943337,
+        "pvalue": 0.9905409818694538
+    },
+    "guinea-bissau": {
+        "correlation": 0.1562690769794985,
+        "pvalue": 0.7031519716981827
+    },
+    "guyana": {
+        "correlation": 0.560224072543881,
+        "pvalue": 0.9814034418600993
+    },
+    "haiti": {
+        "correlation": 0.39801567741272303,
+        "pvalue": 0.9206466591493733
+    },
+    "honduras": {
+        "correlation": 0.8885231362275015,
+        "pvalue": 0.9999891483351115
+    },
+    "hungary": {
+        "correlation": -0.6574344023641437,
+        "pvalue": 0.005307659893708124
+    },
+    "iceland": {
+        "correlation": 0.42746636792574466,
+        "pvalue": 0.9363192702294645
+    },
+    "india": {
+        "correlation": 0.36611612320911074,
+        "pvalue": 0.9010274453346225
+    },
+    "indonesia": {
+        "correlation": 0.8423611577687296,
+        "pvalue": 0.9999218321331867
+    },
+    "iran": {
+        "correlation": NaN,
+        "pvalue": NaN
+    },
+    "iraq": {
+        "correlation": 0.5702349470051219,
+        "pvalue": 0.9833813182615933
+    },
+    "ireland": {
+        "correlation": -0.5918595440653501,
+        "pvalue": 0.01288313919050697
+    },
+    "israel": {
+        "correlation": 0.5250865487411611,
+        "pvalue": 0.9730755176659728
+    },
+    "italy": {
+        "correlation": -0.9702976168506299,
+        "pvalue": 4.649491444096812e-09
+    },
+    "jamaica": {
+        "correlation": 0.7239539034465191,
+        "pvalue": 0.9982915192977229
+    },
+    "japan": {
+        "correlation": -0.6563176505979124,
+        "pvalue": 0.005397429086180862
+    },
+    "jordan": {
+        "correlation": -0.8448539156093211,
+        "pvalue": 7.144370830802962e-05
+    },
+    "kazakhstan": {
+        "correlation": 0.8492854424134765,
+        "pvalue": 0.9999393493385426
+    },
+    "kenya": {
+        "correlation": 0.7965481614071666,
+        "pvalue": 0.9996749391101738
+    },
+    "kiribati": {
+        "correlation": -0.725571491075602,
+        "pvalue": 0.0016556942903917754
+    },
+    "kuwait": {
+        "correlation": 0.35519508108451175,
+        "pvalue": 0.8936628716279916
+    },
+    "kyrgyzstan": {
+        "correlation": 0.2447642936930989,
+        "pvalue": 0.8004917044095152
+    },
+    "laos": {
+        "correlation": 0.49891097568989157,
+        "pvalue": 0.9653214318611278
+    },
+    "latvia": {
+        "correlation": 0.4597577215543089,
+        "pvalue": 0.9509382124883586
+    },
+    "lebanon": {
+        "correlation": 0.7792570429254112,
+        "pvalue": 0.9994906902297224
+    },
+    "lesotho": {
+        "correlation": -0.4262059817666245,
+        "pvalue": 0.06430479731010147
+    },
+    "liberia": {
+        "correlation": -0.9756313409943954,
+        "pvalue": 1.4343805924202106e-09
+    },
+    "lithuania": {
+        "correlation": 0.5704859653948683,
+        "pvalue": 0.9834288175220729
+    },
+    "luxembourg": {
+        "correlation": -0.8441994103963053,
+        "pvalue": 7.316195603949937e-05
+    },
+    "madagascar": {
+        "correlation": 0.01567970376929092,
+        "pvalue": 0.5212140304910251
+    },
+    "malawi": {
+        "correlation": 0.7963197382082275,
+        "pvalue": 0.9996729170837085
+    },
+    "malaysia": {
+        "correlation": 0.4701432435975704,
+        "pvalue": 0.9550973784725402
+    },
+    "maldives": {
+        "correlation": 0.4657225795294529,
+        "pvalue": 0.9533582989867885
+    },
+    "mali": {
+        "correlation": NaN,
+        "pvalue": NaN
+    },
+    "malta": {
+        "correlation": 0.7057591213346368,
+        "pvalue": 0.9976016495466116
+    },
+    "mauritania": {
+        "correlation": NaN,
+        "pvalue": NaN
+    },
+    "mauritius": {
+        "correlation": 0.39381398397703987,
+        "pvalue": 0.9182218645492841
+    },
+    "mexico": {
+        "correlation": 0.15882630233098596,
+        "pvalue": 0.7062044486905132
+    },
+    "moldova": {
+        "correlation": 0.7929534654137165,
+        "pvalue": 0.9996419299727438
+    },
+    "mongolia": {
+        "correlation": 0.9592965100836159,
+        "pvalue": 0.999999969934649
+    },
+    "montenegro": {
+        "correlation": 0.6727396280221437,
+        "pvalue": 0.9662378312592117
+    },
+    "morocco": {
+        "correlation": 0.7928249671720918,
+        "pvalue": 0.9996407021338255
+    },
+    "mozambique": {
+        "correlation": -0.5146238121450796,
+        "pvalue": 0.02985560580736149
+    },
+    "myanmar": {
+        "correlation": 0.4015088405335653,
+        "pvalue": 0.922626231614716
+    },
+    "namibia": {
+        "correlation": 0.831127852893551,
+        "pvalue": 0.9998848580036851
+    },
+    "nepal": {
+        "correlation": 0.9087826180837264,
+        "pvalue": 0.9999965921151995
+    },
+    "netherlands": {
+        "correlation": -0.7973587624437928,
+        "pvalue": 0.0003179661457266474
+    },
+    "new caledonia": {
+        "correlation": 0.6026548802227684,
+        "pvalue": 0.9887268583768767
+    },
+    "new zealand": {
+        "correlation": -0.8198940075494275,
+        "pvalue": 0.00016513496859247412
+    },
+    "nicaragua": {
+        "correlation": 0.26681681417570613,
+        "pvalue": 0.8217702546363495
+    },
+    "niger": {
+        "correlation": NaN,
+        "pvalue": NaN
+    },
+    "nigeria": {
+        "correlation": -0.8572475080018203,
+        "pvalue": 4.459287393864843e-05
+    },
+    "north korea": {
+        "correlation": 0.645533490483681,
+        "pvalue": 0.9936743411689133
+    },
+    "north macedonia": {
+        "correlation": -0.9270002252012941,
+        "pvalue": 9.32104902326184e-07
+    },
+    "norway": {
+        "correlation": 0.2803559332904454,
+        "pvalue": 0.8341897218430085
+    },
+    "oman": {
+        "correlation": 0.5137512460999725,
+        "pvalue": 0.969890002131612
+    },
+    "pakistan": {
+        "correlation": NaN,
+        "pvalue": NaN
+    },
+    "panama": {
+        "correlation": 0.7863436123348018,
+        "pvalue": 0.9995742471123295
+    },
+    "paraguay": {
+        "correlation": -0.6968030695978974,
+        "pvalue": 0.002809468260109771
+    },
+    "peru": {
+        "correlation": 0.8362913726159646,
+        "pvalue": 0.9999032941553704
+    },
+    "philippines": {
+        "correlation": -0.6394484308805592,
+        "pvalue": 0.006900742379197049
+    },
+    "poland": {
+        "correlation": 0.9304635761589405,
+        "pvalue": 0.9999992983422156
+    },
+    "portugal": {
+        "correlation": -0.7964801299318095,
+        "pvalue": 0.0003256620601276633
+    },
+    "romania": {
+        "correlation": 0.5438431922369498,
+        "pvalue": 0.9778000773773873
+    },
+    "russia": {
+        "correlation": 0.4652704040669504,
+        "pvalue": 0.953177811524672
+    },
+    "rwanda": {
+        "correlation": -0.6366959481898691,
+        "pvalue": 0.007173623333214734
+    },
+    "saint kitts and nevis": {
+        "correlation": 0.041902846600829116,
+        "pvalue": 0.5565505319080646
+    },
+    "saint lucia": {
+        "correlation": -0.7034913754603784,
+        "pvalue": 0.0024976807704977858
+    },
+    "saint vincent and the grenadines": {
+        "correlation": 0.8454746136865342,
+        "pvalue": 0.999930155405932
+    },
+    "samoa": {
+        "correlation": 0.16240357388584906,
+        "pvalue": 0.7104531898071706
+    },
+    "sao tome and principe": {
+        "correlation": -0.13793521594753586,
+        "pvalue": 0.31908940214965964
+    },
+    "saudi arabia": {
+        "correlation": NaN,
+        "pvalue": NaN
+    },
+    "senegal": {
+        "correlation": -0.8881370860980516,
+        "pvalue": 1.1069526488183317e-05
+    },
+    "serbia": {
+        "correlation": 0.8383383833392812,
+        "pvalue": 0.9953384421324719
+    },
+    "sierra leone": {
+        "correlation": -0.7495607698634854,
+        "pvalue": 0.0010126612499195158
+    },
+    "slovakia": {
+        "correlation": -0.8639401674495474,
+        "pvalue": 3.394134777686111e-05
+    },
+    "slovenia": {
+        "correlation": -0.07692307692307693,
+        "pvalue": 0.39690294417772665
+    },
+    "solomon islands": {
+        "correlation": 0.5402455131063896,
+        "pvalue": 0.9769448239100011
+    },
+    "south africa": {
+        "correlation": 0.1049724397744097,
+        "pvalue": 0.6395066876264162
+    },
+    "south korea": {
+        "correlation": 0.7192225942311788,
+        "pvalue": 0.9981294898864932
+    },
+    "spain": {
+        "correlation": -0.7544266250967878,
+        "pvalue": 0.0009106397893379036
+    },
+    "sri lanka": {
+        "correlation": 0.803812560832746,
+        "pvalue": 0.9997342023356778
+    },
+    "sudan": {
+        "correlation": -0.9999999999999999,
+        "pvalue": NaN
+    },
+    "suriname": {
+        "correlation": 0.7101488992529078,
+        "pvalue": 0.9977851309789887
+    },
+    "sweden": {
+        "correlation": 0.028634430695495316,
+        "pvalue": 0.5387042378180302
+    },
+    "switzerland": {
+        "correlation": -0.4467893156032882,
+        "pvalue": 0.054620550380119474
+    },
+    "tajikistan": {
+        "correlation": -0.3117227999994552,
+        "pvalue": 0.13897401418367383
+    },
+    "tanzania": {
+        "correlation": 0.4532455988009745,
+        "pvalue": 0.9481982627085843
+    },
+    "thailand": {
+        "correlation": 0.8546276238347834,
+        "pvalue": 0.9999505607948234
+    },
+    "togo": {
+        "correlation": 0.6905756458540716,
+        "pvalue": 0.9968736933835236
+    },
+    "trinidad and tobago": {
+        "correlation": 0.09292126362399607,
+        "pvalue": 0.6239791083359354
+    },
+    "tunisia": {
+        "correlation": 0.6974216216257607,
+        "pvalue": 0.9972205787467568
+    },
+    "turkey": {
+        "correlation": 0.6712484506240168,
+        "pvalue": 0.9957104948521461
+    },
+    "turkmenistan": {
+        "correlation": -0.621566426374645,
+        "pvalue": 0.008823535943482627
+    },
+    "uganda": {
+        "correlation": -0.9020907548951433,
+        "pvalue": 5.134461207364387e-06
+    },
+    "ukraine": {
+        "correlation": 0.7133773703326859,
+        "pvalue": 0.9979129082844364
+    },
+    "united kingdom": {
+        "correlation": -0.7907488986784142,
+        "pvalue": 0.0003796075282549331
+    },
+    "united states": {
+        "correlation": -0.08397795181952776,
+        "pvalue": 0.3876592848823911
+    },
+    "uruguay": {
+        "correlation": -0.3638388149492011,
+        "pvalue": 0.10048075290682261
+    },
+    "uzbekistan": {
+        "correlation": 0.9161237190199593,
+        "pvalue": 0.999997906233466
+    },
+    "vanuatu": {
+        "correlation": 0.29625597415452254,
+        "pvalue": 0.8481344334722913
+    },
+    "venezuela": {
+        "correlation": -0.42209970519815265,
+        "pvalue": 0.0663665350435926
+    },
+    "vietnam": {
+        "correlation": 0.9066689053580856,
+        "pvalue": 0.9999961083232265
+    },
+    "yemen": {
+        "correlation": -0.05069270526522723,
+        "pvalue": 0.4316795922010028
+    },
+    "zambia": {
+        "correlation": 0.10421695936633289,
+        "pvalue": 0.6385388567709198
+    },
+    "zimbabwe": {
+        "correlation": 0.8577775697893286,
+        "pvalue": 0.9999563389542816
+    }
+}

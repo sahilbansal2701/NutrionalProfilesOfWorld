@@ -1,0 +1,16 @@
+data/2-turned_into_one_db/data.db
+data/3-remove_columns/data.db
+dietary_compositions_by_commodity_group
+(1)
+exports
+(0, 1, 2, 4, 5, 6, 8, 12, 13)
+imports
+(0, 1, 2, 4, 5, 6, 8, 12, 13)
+number_of_people_undernourished
+(0, 1, 2, 4, 5, 6, 7, 8, 12, 13, 14)
+daily_caloric_supply_derived_from_carbohydrates_protein_and_fat
+(1)
+life_expectancy
+(1)
+fruit_consumption_vs_gdp_per_capita
+(1, 5)

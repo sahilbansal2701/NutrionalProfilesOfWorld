@@ -1,0 +1,118 @@
+:root {
+  --red: #fe745f;
+  --orange: #ff924e;
+  --yellow: #ffb752;
+  --lightgreen: #7fac46;
+  --darkgreen: #457928;
+}
+
+.App {
+  text-align: center;
+  height: 100%;
+  width: 100%;
+  background-image: linear-gradient(to bottom right, var(--red), var(--orange), var(--yellow), var(--lightgreen), var(--darkgreen));
+  margin: 0;
+}
+
+h1 {
+  font-family:"AlegreyaSansSC-Regular"; 
+  font-size: 50px;
+  margin-top: 0px;
+  padding-top: 2%;
+}
+
+p {
+  font-family: 'MPLUS1p-Regular';
+  margin-top: 0px;
+  font-size: 15px;
+  text-align: left;
+  padding-left: 3%;
+}
+
+.parentDiv{
+  display: flex;
+  margin-right: 3%;
+  margin-left: 3%;
+  padding-bottom: 3%;
+  flex-wrap: wrap;
+  padding-top: 2%;
+
+}
+.child {
+  flex: 1;
+  border-radius: 5%;
+  margin-right: 2%;
+  margin-left: 2%;
+  min-height: 70vh;
+  
+}
+
+.headers {
+  margin-top: 2%;
+  margin-left: 1%;
+}
+.subtitle {
+  text-align: center;
+}
+
+Form {
+  margin-left: 4%;
+  margin-right: 3%;
+  margin-top: 1%;
+}
+.child:first-child{
+  text-align: left;
+  background-color: var(--lightgreen);
+  border: 2px solid var(--darkgreen);
+
+}
+
+.child:last-child {
+  background-color: var(--yellow);
+  border: 2px solid var(--red);
+}
+
+.btn{
+  margin-top: 3%;
+}
+
+.form-control{
+  width: 70%;
+}
+
+.results {
+  margin-left: 1%;
+  margin-right: 1%;
+}
+
+.listGroup {
+  margin-left: 2%;
+}
+@font-face {
+  font-family:"MPLUS1p-Regular";  
+  src: local("MPLUS1p-Regular"),
+    url("./fonts/MPLUS1p-Regular.ttf") format("truetype");
+
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family:"AlegreyaSansSC-Regular";  
+  src: local("AlegreyaSansSC-Regular"),
+    url("./fonts/AlegreyaSansSC-Regular.ttf") format("truetype");
+
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+@media screen and (max-width:990px) {
+  .parentDiv { 
+    flex-wrap: wrap;  
+    flex-direction: row;
+  }
+
+}
